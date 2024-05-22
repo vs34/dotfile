@@ -1,0 +1,35 @@
+1920x1080 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAADx/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAA7AAADxwAAAOoA///+AAAHBgAAA8cAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1920x1080 screen: Window-Maximized=true
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/medical.pdf
+File10[$e]=$HOME/function/ElectronOrder/Order.md
+File2[$e]=$HOME/Downloads/djf.pdf
+File3[$e]=$HOME/Downloads/medical cartificate.pdf
+File4[$e]=$HOME/Downloads/lect_8 (1).pdf
+File5[$e]=$HOME/function/ElectronOrder/core/riscv-ISA-Manual.pdf
+File6[$e]=$HOME/Documents/riscv-spec-v2.2.pdf
+File7[$e]=$HOME/function/ElectronOrder/core/riscv-spec.pdf
+File8[$e]=$HOME/function/ElectronOrder/CPU/riscv-spec.pdf
+File9[$e]=$HOME/Downloads/DALL·E 2023-12-23 17.17.59 - photons to photo.png
+Name1[$e]=medical.pdf
+Name10[$e]=Order.md
+Name2[$e]=djf.pdf
+Name3[$e]=medical cartificate.pdf
+Name4[$e]=lect_8 (1).pdf
+Name5[$e]=riscv-ISA-Manual.pdf
+Name6[$e]=riscv-spec-v2.2.pdf
+Name7[$e]=riscv-spec.pdf
+Name8[$e]=riscv-spec.pdf
+Name9[$e]=DALL·E 2023-12-23 17.17.59 - photons to photo.png

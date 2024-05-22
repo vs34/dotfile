@@ -1,0 +1,2 @@
+import{Ja as s}from"./chunk-MXAKFU6F.js";import"./chunk-KJG3EQPP.js";import"./chunk-JFYIYEE3.js";import"./chunk-XAYVH6YF.js";import{f as e,h as t,o}from"./chunk-67P5Y4J4.js";o();t();async function n(r,m,a){let{domain:i,payload:u}=r;if(i==="com.speechify.contextMenus.response"){switch(u.playMode){case"fullPage":case"selection":s.play();break}a(null)}}function c(){return e.runtime.onMessage.removeListener(n),e.runtime.onMessage.addListener(n),()=>e.runtime.onMessage.removeListener(n)}export{c as default};
+//# sourceMappingURL=init-WVRMW53N.js.map

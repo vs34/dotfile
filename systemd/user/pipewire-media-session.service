@@ -1,0 +1,11 @@
+[Unit]
+Description=Pipewire Media Session
+
+[Service]
+ExecStart=/path/to/pipewire-media-session-binary
+Restart=always
+User=your_username
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target

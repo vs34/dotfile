@@ -1,0 +1,14 @@
+2023/12/27-17:07:08.222 3a8d Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_infinity.icicibank.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/27-17:07:08.222 3a8d Recovering log #46
+2023/12/27-17:07:08.223 3a8d Reusing old log /home/vs/.config/google-chrome/Default/IndexedDB/https_infinity.icicibank.com_0.indexeddb.leveldb/000046.log 
+2023/12/27-17:07:08.223 3a8d Delete type=2 #44
+2023/12/27-17:07:08.313 3a91 Level-0 table #51: started
+2023/12/27-17:07:08.316 3a91 Level-0 table #51: 655 bytes OK
+2023/12/27-17:07:08.319 3a91 Delete type=0 #46
+2023/12/27-17:07:08.320 3a91 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 289 : 1
+2023/12/27-17:07:08.320 3a91 Compacting 1@0 + 1@1 files
+2023/12/27-17:07:08.322 3a91 Generated table #52@0: 7 keys, 649 bytes
+2023/12/27-17:07:08.322 3a91 Compacted 1@0 + 1@1 files => 649 bytes
+2023/12/27-17:07:08.326 3a91 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/27-17:07:08.326 3a91 Delete type=2 #51
+2023/12/27-17:07:08.326 3a8d Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 289 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

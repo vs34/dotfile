@@ -1,0 +1,6 @@
+2024/02/25-15:54:30.435 920 Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb since it was missing.
+2024/02/25-15:54:30.443 920 Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-15:54:30.758 93b Level-0 table #5: started
+2024/02/25-15:54:30.763 93b Level-0 table #5: 1415 bytes OK
+2024/02/25-15:54:30.768 93b Delete type=0 #3
+2024/02/25-15:54:30.768 93b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,18 @@
+2023/12/21-01:00:17.701 7ccf Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/12/21-01:00:17.708 7ccf Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/21-01:00:22.651 7ce5 Level-0 table #5: started
+2023/12/21-01:00:22.664 7ce5 Level-0 table #5: 65194 bytes OK
+2023/12/21-01:00:22.667 7ce5 Delete type=0 #3
+2023/12/21-01:00:22.668 7ccf Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/21-02:33:25.751 7ccf Level-0 table #7: started
+2023/12/21-02:33:25.758 7ccf Level-0 table #7: 353797 bytes OK
+2023/12/21-02:33:25.763 7ccf Delete type=0 #4
+2023/12/21-02:33:25.764 7ccf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/21-02:33:25.764 7ce5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1349 : 1
+2023/12/21-02:33:25.764 7ce5 Compacting 1@1 + 1@2 files
+2023/12/21-02:33:25.771 7ce5 Generated table #8@1: 347 keys, 27412 bytes
+2023/12/21-02:33:25.772 7ce5 Compacted 1@1 + 1@2 files => 27412 bytes
+2023/12/21-02:33:25.775 7ce5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/21-02:33:25.775 7ce5 Delete type=2 #5
+2023/12/21-02:33:25.776 7ce5 Delete type=2 #7
+2023/12/21-02:33:25.776 7ccf Manual compaction at level-1 from '\x00\x0c\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1349 : 1 .. (end); will stop at (end)

@@ -1,0 +1,54 @@
+2024/05/07-13:25:22.838 3ca6 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/07-13:25:22.839 3ca6 Recovering log #101
+2024/05/07-13:25:22.839 3ca6 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000101.log 
+2024/05/07-13:25:33.748 3ca7 Level-0 table #106: started
+2024/05/07-13:25:33.751 3ca7 Level-0 table #106: 81106 bytes OK
+2024/05/07-13:25:33.755 3ca7 Delete type=0 #101
+2024/05/07-13:25:33.755 3ca7 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/07-13:25:34.138 3ca6 Level-0 table #108: started
+2024/05/07-13:25:34.142 3ca6 Level-0 table #108: 111349 bytes OK
+2024/05/07-13:25:34.145 3ca6 Delete type=0 #105
+2024/05/07-13:25:34.146 3ca6 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\xc8\x0b\x00E\x00n\x00t\x00i\x00t\x00y\x00S\x00t\x00o\x00r\x00e' @ 83635 : 0
+2024/05/07-13:25:34.146 3ca6 Compacting 1@0 + 1@1 files
+2024/05/07-13:25:34.149 3ca6 Generated table #109@0: 665 keys, 47810 bytes
+2024/05/07-13:25:34.149 3ca6 Compacted 1@0 + 1@1 files => 47810 bytes
+2024/05/07-13:25:34.153 3ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/07-13:25:34.153 3ca6 Delete type=2 #108
+2024/05/07-13:25:34.153 3ca6 Manual compaction at level-0 from '\x00\x16\x00\x00\xc8\x0b\x00E\x00n\x00t\x00i\x00t\x00y\x00S\x00t\x00o\x00r\x00e' @ 83635 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/07-13:25:34.287 3ca7 Compacting 1@1 + 1@2 files
+2024/05/07-13:25:34.291 3ca7 Generated table #110@1: 438 keys, 57109 bytes
+2024/05/07-13:25:34.291 3ca7 Compacted 1@1 + 1@2 files => 57109 bytes
+2024/05/07-13:25:34.297 3ca7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/07-13:25:34.297 3ca7 Delete type=2 #106
+2024/05/07-16:12:13.764 3ca7 Level-0 table #112: started
+2024/05/07-16:12:13.822 3ca7 Level-0 table #112: 1641267 bytes OK
+2024/05/07-16:12:13.829 3ca7 Delete type=2 #103
+2024/05/07-16:12:13.830 3ca7 Delete type=0 #107
+2024/05/07-16:12:13.830 3ca7 Delete type=2 #109
+2024/05/07-16:12:23.893 3ca7 Compacting 1@1 + 1@2 files
+2024/05/07-16:12:23.948 3ca7 Generated table #113@1: 377 keys, 47249 bytes
+2024/05/07-16:12:23.948 3ca7 Compacted 1@1 + 1@2 files => 47249 bytes
+2024/05/07-16:12:23.953 3ca7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/07-16:12:23.957 3ca7 Delete type=2 #110
+2024/05/07-16:12:23.957 3ca7 Delete type=2 #112
+2024/05/07-17:17:40.409 3ca7 Level-0 table #115: started
+2024/05/07-17:17:40.446 3ca7 Level-0 table #115: 1876396 bytes OK
+2024/05/07-17:17:40.453 3ca7 Delete type=0 #111
+2024/05/07-17:52:43.825 3ca7 Compacting 1@1 + 1@2 files
+2024/05/07-17:52:43.848 3ca7 Generated table #116@1: 360 keys, 51057 bytes
+2024/05/07-17:52:43.848 3ca7 Compacted 1@1 + 1@2 files => 51057 bytes
+2024/05/07-17:52:43.854 3ca7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/07-17:52:43.855 3ca7 Delete type=2 #115
+2024/05/07-17:52:43.855 3ca7 Delete type=2 #113
+2024/05/07-20:08:11.263 3ca7 Level-0 table #118: started
+2024/05/07-20:08:11.272 3ca7 Level-0 table #118: 263298 bytes OK
+2024/05/07-20:08:11.276 3ca7 Delete type=0 #114
+2024/05/07-20:08:11.276 3ca7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/07-20:08:11.277 3ca7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x10\x01\x1f\x03f\xae\xd2\xae:\xf3xB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 97485 : 0
+2024/05/07-20:08:11.277 3ca7 Compacting 1@1 + 1@2 files
+2024/05/07-20:08:11.288 3ca7 Generated table #119@1: 362 keys, 45381 bytes
+2024/05/07-20:08:11.288 3ca7 Compacted 1@1 + 1@2 files => 45381 bytes
+2024/05/07-20:08:11.291 3ca7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/07-20:08:11.291 3ca7 Delete type=2 #118
+2024/05/07-20:08:11.291 3ca7 Delete type=2 #116
+2024/05/07-20:08:11.292 3ca7 Manual compaction at level-1 from '\x00\x10\x01\x1f\x03f\xae\xd2\xae:\xf3xB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 97485 : 0 .. (end); will stop at (end)

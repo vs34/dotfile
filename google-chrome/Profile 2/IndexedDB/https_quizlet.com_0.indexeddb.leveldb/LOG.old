@@ -1,0 +1,7 @@
+2024/02/13-11:47:53.435 73d Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-11:47:53.435 73d Recovering log #3
+2024/02/13-11:47:53.436 73d Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/000003.log 
+2024/02/13-11:48:24.719 73e Level-0 table #5: started
+2024/02/13-11:48:24.723 73e Level-0 table #5: 7958 bytes OK
+2024/02/13-11:48:24.728 73e Delete type=0 #3
+2024/02/13-11:48:24.728 73e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

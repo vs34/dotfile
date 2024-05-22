@@ -1,0 +1,25 @@
+2024/05/14-10:47:28.673 4a8 Reusing MANIFEST /home/vs/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2024/05/14-10:47:28.675 4a8 Recovering log #68
+2024/05/14-10:47:28.684 4a8 Reusing old log /home/vs/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000068.log 
+2024/05/14-10:47:33.354 4a8 Level-0 table #72: started
+2024/05/14-10:47:33.380 4a8 Level-0 table #72: 1385854 bytes OK
+2024/05/14-10:47:33.384 4a8 Delete type=0 #68
+2024/05/14-10:47:34.821 4a8 Level-0 table #74: started
+2024/05/14-10:47:34.867 4a8 Level-0 table #74: 3348103 bytes OK
+2024/05/14-10:47:34.871 4a8 Delete type=0 #71
+2024/05/14-10:47:34.989 4a7 Level-0 table #76: started
+2024/05/14-10:47:35.028 4a7 Level-0 table #76: 2859917 bytes OK
+2024/05/14-10:47:35.033 4a7 Delete type=0 #73
+2024/05/14-10:47:35.034 4a7 Compacting 4@0 + 3@1 files
+2024/05/14-10:47:35.080 4a7 Generated table #77@0: 4 keys, 2860383 bytes
+2024/05/14-10:47:35.112 4a7 Generated table #78@0: 4 keys, 2783979 bytes
+2024/05/14-10:47:35.117 4a7 Generated table #79@0: 4 keys, 243770 bytes
+2024/05/14-10:47:35.117 4a7 Compacted 4@0 + 3@1 files => 5888132 bytes
+2024/05/14-10:47:35.120 4a7 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/05/14-10:47:35.120 4a7 Delete type=2 #67
+2024/05/14-10:47:35.120 4a7 Delete type=2 #72
+2024/05/14-10:47:35.120 4a7 Delete type=2 #69
+2024/05/14-10:47:35.120 4a7 Delete type=2 #76
+2024/05/14-10:47:35.120 4a7 Delete type=2 #65
+2024/05/14-10:47:35.120 4a7 Delete type=2 #66
+2024/05/14-10:47:35.120 4a7 Delete type=2 #74

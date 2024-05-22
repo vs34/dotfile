@@ -1,0 +1,7 @@
+2024/04/08-11:58:29.455 2000 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/08-11:58:29.456 2000 Recovering log #4
+2024/04/08-11:58:29.457 2000 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000004.log 
+2024/04/08-11:58:29.613 2017 Level-0 table #8: started
+2024/04/08-11:58:29.616 2017 Level-0 table #8: 1929 bytes OK
+2024/04/08-11:58:29.619 2017 Delete type=0 #4
+2024/04/08-11:58:29.620 1ffc Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

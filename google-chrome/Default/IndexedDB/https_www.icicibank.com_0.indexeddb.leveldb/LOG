@@ -1,0 +1,6 @@
+2023/12/27-17:01:51.974 3a8d Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_www.icicibank.com_0.indexeddb.leveldb since it was missing.
+2023/12/27-17:01:51.982 3a8d Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_www.icicibank.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/27-17:01:52.081 3a8e Level-0 table #5: started
+2023/12/27-17:01:52.086 3a8e Level-0 table #5: 665 bytes OK
+2023/12/27-17:01:52.090 3a8e Delete type=0 #3
+2023/12/27-17:01:52.091 3a8e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

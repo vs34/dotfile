@@ -1,0 +1,14 @@
+2023/12/24-02:33:30.046 a87 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_www.rapidtables.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/24-02:33:30.047 a87 Recovering log #14
+2023/12/24-02:33:30.047 a87 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_www.rapidtables.com_0.indexeddb.leveldb/000014.log 
+2023/12/24-02:33:30.047 a87 Delete type=2 #12
+2023/12/24-02:33:38.468 a87 Level-0 table #19: started
+2023/12/24-02:33:38.470 a87 Level-0 table #19: 580 bytes OK
+2023/12/24-02:33:38.473 a87 Delete type=0 #14
+2023/12/24-02:33:38.473 a87 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 83 : 1
+2023/12/24-02:33:38.473 a87 Compacting 1@0 + 1@1 files
+2023/12/24-02:33:38.476 a87 Generated table #20@0: 10 keys, 666 bytes
+2023/12/24-02:33:38.476 a87 Compacted 1@0 + 1@1 files => 666 bytes
+2023/12/24-02:33:38.479 a87 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/24-02:33:38.480 a87 Delete type=2 #19
+2023/12/24-02:33:38.480 a87 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 83 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

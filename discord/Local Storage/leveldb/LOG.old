@@ -1,0 +1,25 @@
+2024/05/04-23:50:41.613 7e9d Reusing MANIFEST /home/vs/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/05/04-23:50:41.614 7e9d Recovering log #16
+2024/05/04-23:50:41.618 7e9d Reusing old log /home/vs/.config/discord/Local Storage/leveldb/000016.log 
+2024/05/04-23:53:28.185 7e9e Level-0 table #20: started
+2024/05/04-23:53:28.241 7e9e Level-0 table #20: 729269 bytes OK
+2024/05/04-23:53:28.244 7e9e Delete type=0 #16
+2024/05/04-23:53:28.245 7e9e Compacting 4@0 + 1@1 files
+2024/05/04-23:53:28.257 7e9e Generated table #21@0: 6 keys, 2106731 bytes
+2024/05/04-23:53:28.278 7e9e Generated table #22@0: 49 keys, 729833 bytes
+2024/05/04-23:53:28.278 7e9e Compacted 4@0 + 1@1 files => 2836564 bytes
+2024/05/04-23:53:28.281 7e9e compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/05/04-23:53:28.281 7e9e Delete type=2 #11
+2024/05/04-23:53:28.282 7e9e Delete type=2 #8
+2024/05/04-23:53:28.282 7e9e Delete type=2 #17
+2024/05/04-23:53:28.282 7e9e Delete type=2 #20
+2024/05/04-23:53:28.282 7e9e Delete type=2 #14
+2024/05/04-23:57:23.109 7e9d Level-0 table #24: started
+2024/05/04-23:57:23.139 7e9d Level-0 table #24: 3062650 bytes OK
+2024/05/04-23:57:23.143 7e9d Delete type=0 #19
+2024/05/05-00:36:59.106 7e9e Level-0 table #26: started
+2024/05/05-00:36:59.120 7e9e Level-0 table #26: 17472 bytes OK
+2024/05/05-00:36:59.123 7e9e Delete type=0 #23
+2024/05/05-11:25:41.953 7e9e Level-0 table #28: started
+2024/05/05-11:25:41.968 7e9e Level-0 table #28: 2309374 bytes OK
+2024/05/05-11:25:41.972 7e9e Delete type=0 #25

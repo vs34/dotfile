@@ -1,0 +1,15 @@
+2024/05/20-22:53:34.622 140fb Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/20-22:53:34.622 140fb Recovering log #400
+2024/05/20-22:53:34.624 140fb Reusing old log /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000400.log 
+2024/05/20-22:54:42.158 140fb Level-0 table #418: started
+2024/05/20-22:54:42.161 140fb Level-0 table #418: 26749 bytes OK
+2024/05/20-22:54:42.166 140fb Delete type=0 #400
+2024/05/20-22:54:42.167 140fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/20-22:54:42.168 140fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x004\x007\x00c\x00b\x003\x001\x00d\x007\x008\x002\x003\x000\x008\x004\x003\x001\x007\x008\x00c\x008\x009\x002\x004\x00b\x00b\x000\x00d\x005\x004\x00e\x00b\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 792563 : 0
+2024/05/20-22:54:42.168 140fb Compacting 1@1 + 1@2 files
+2024/05/20-22:54:42.197 140fb Generated table #419@1: 2364 keys, 2123289 bytes
+2024/05/20-22:54:42.197 140fb Compacted 1@1 + 1@2 files => 2123289 bytes
+2024/05/20-22:54:42.201 140fb compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/05/20-22:54:42.201 140fb Delete type=2 #408
+2024/05/20-22:54:42.201 140fb Delete type=2 #418
+2024/05/20-22:54:42.202 140fb Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x004\x007\x00c\x00b\x003\x001\x00d\x007\x008\x002\x003\x000\x008\x004\x003\x001\x007\x008\x00c\x008\x009\x002\x004\x00b\x00b\x000\x00d\x005\x004\x00e\x00b\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 792563 : 0 .. (end); will stop at (end)

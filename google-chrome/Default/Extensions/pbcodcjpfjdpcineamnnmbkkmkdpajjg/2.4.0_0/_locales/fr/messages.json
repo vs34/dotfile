@@ -1,0 +1,26 @@
+{
+   "copy_link": {
+      "message": "Copier lien vers le texte sélectionné"
+   },
+   "extension_description": {
+      "message": "Extension de navigateur qui permet de créer des liens vers du texte arbitraire sur une page."
+   },
+   "extension_name": {
+      "message": "Lien vers un fragment de texte"
+   },
+   "extension_short_name": {
+      "message": "Fragment"
+   },
+   "link_copy_style": {
+      "message": "Style de copie de lien"
+   },
+   "link_failure": {
+      "message": "Impossible de créer un lien unique. Veuillez sélectionner une séquence de mots plus longue."
+   },
+   "raw": {
+      "message": "Copier l'URL brute."
+   },
+   "rich": {
+      "message": "Copier un lien de texte enrichi."
+   }
+}

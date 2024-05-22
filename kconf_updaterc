@@ -1,0 +1,16 @@
+updateInfoAdded=true
+
+[dolphin_detailsmodesettings.upd]
+ctime=1709567709
+done=rename-leading-padding,move-content-display
+mtime=1707902946
+
+[filepicker.upd]
+ctime=1709567707
+done=filepicker-remove-old-previews-entry
+mtime=1706981421
+
+[okular.upd]
+ctime=1709567721
+done=annotation-toolbar,builtin-annotations
+mtime=1707905975

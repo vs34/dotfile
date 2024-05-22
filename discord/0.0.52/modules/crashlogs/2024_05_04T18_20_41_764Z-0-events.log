@@ -1,0 +1,28 @@
+2024-05-04T18:20:41.788Z 0: 
+
+----------------------------------------------
+2024-05-04T18:20:41.818Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/vs/.config/discord/0.0.52/modules
+2024-05-04T18:20:41.824Z 2: ✅ webContents.created web1 ""
+2024-05-04T18:20:41.828Z 3: ✅ window.created win1 "discord"
+2024-05-04T18:20:42.150Z 4: ✅ webContents.did-finish-load web1
+2024-05-04T18:20:58.579Z 5: ✅ webContents.created web2 ""
+2024-05-04T18:20:58.586Z 6: ✅ window.created win2 "Discord"
+2024-05-04T18:21:04.315Z 7: ✅ webContents.did-finish-load web2
+2024-05-04T18:21:04.402Z 8: window.close win1
+2024-05-04T18:21:04.444Z 9: webContents.destroyed web1
+2024-05-04T18:21:04.453Z 10: window.closed win1
+2024-05-04T19:08:14.310Z 11: window.close win2
+2024-05-05T16:03:56.855Z 0: 
+
+----------------------------------------------
+2024-05-05T16:03:56.881Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.52"}, modulepath: /home/vs/.config/discord/0.0.52/modules
+2024-05-05T16:03:56.898Z 2: ✅ webContents.created web1 ""
+2024-05-05T16:03:56.904Z 3: ✅ window.created win1 "discord"
+2024-05-05T16:03:57.197Z 4: ✅ webContents.did-finish-load web1
+2024-05-05T16:04:02.861Z 5: ✅ webContents.created web2 ""
+2024-05-05T16:04:02.865Z 6: ✅ window.created win2 "Discord"
+2024-05-05T16:04:11.195Z 7: ✅ webContents.did-finish-load web2
+2024-05-05T16:04:11.296Z 8: window.close win1
+2024-05-05T16:04:11.322Z 9: webContents.destroyed web1
+2024-05-05T16:04:11.329Z 10: window.closed win1
+2024-05-05T21:04:29.330Z 11: window.close win2

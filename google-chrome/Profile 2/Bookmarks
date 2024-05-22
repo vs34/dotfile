@@ -1,0 +1,81 @@
+{
+   "checksum": "b723a579f215695dcf92555f218da532",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13347109911764943",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341670483485733",
+            "date_last_used": "0",
+            "guid": "a9f68bf9-5d74-4173-8e79-b072db20cff6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Classwork for Circuit Theory and Devices (2023) ECE215",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/w/NjE3MTg4NDE0Nzk5/t/all"
+         }, {
+            "date_added": "13342429133727562",
+            "date_last_used": "0",
+            "guid": "aafeaba8-2967-4d8e-892a-2865b117deef",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lecture 15 pdf.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1somc0O0IFk8UFpfJ6n_VknYLnR5NIJ1l/view"
+         }, {
+            "date_added": "13342810776673566",
+            "date_last_used": "0",
+            "guid": "82996bd7-500a-488e-a92d-dc9253d9e2d2",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to run .sh file shell script (bash/ksh) in Linux / UNIX - nixCraft",
+            "type": "url",
+            "url": "https://www.cyberciti.biz/faq/run-execute-sh-shell-script/"
+         }, {
+            "date_added": "13359554076782622",
+            "date_last_used": "0",
+            "guid": "18715cf6-e9e6-441c-b0fb-f6ba12330c98",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MOSFET Common Gate Amplifier (Small Signal Analysis) Explained - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2zr5ykXpyXY"
+         } ],
+         "date_added": "13347109911764947",
+         "date_last_used": "0",
+         "date_modified": "13359554076782622",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347109911764950",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCZQdkj7fFwYAEZQdkj7fFwYAKUeqkj7fFwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAOTlON8XBgARAOTlON8XBgApkRuSPt8XBgAwgMiXx/P7hQMSACoYT1N4MkhBd1BueVdxbE5oUVJ3WSs5dz09SAMS7AEICRLnAQocbGNvNlNMOGVpY290eVBhTld0MTV2MUswOHlZPRJmWjpBRHF0QVp5NnhUVHlXNkt1Y3U5VGc3Q3Q1ckMzcWxYSXdTT2F1eFEwVGZRVnk4VkVQTGJpcU8xMkJrWnR4cnduSzBNM25rR3dET09YZko2NjNwK0trUjROektTb0lFQ0xsZz09GAAgAigCMP3G19W0+4UDOPDwjJb1MUCA8YyW9TFKHEg1b2QzRklOTVlKT0hJczYrQmVZbDlRcS9Kdz1aHyId6nVkMlVFNHlUMW1aNlFaZGJKS085RVZnckdDOD1lOPk5MxLrAQgFEuYBChxwL2k2TlpMcm9jLzNscm5LaUQ5K2ZOOXlHY2c9EmZaOkFEcXRBWnk2eFRUeVc2S3VjdTlUZzdDdDVyQzNNV1JoTWNDcmVBNVBGOXJYcDRGanlZZjVpRzgyaUZNMGtTaXR6S3U0Unp4Tzk3ZWpqNis5ZmRYa3N2cFc5MEEwM0pURWR3PT0YACBGKEYwxY++jq34hQM4o/zExrIxQNPe/eP0MUocMTdEOHBMbWFzQURJRDA3S2d0bllxZ2UvRThrPVoeIhxXeVVMOXpwYVlHMDVWSSt3MlJHYTcwUVdMSWs9ZZ6O0EES7AEIBhLnAQocMzZueDFtMS9YTGNZb2swWmlSNEdKUm93d2RFPRJmWjpBRHF0QVp5NnhUVHlXNkt1Y3U5VGc3Q3Q1ckMzZTdteE12ZzZSUTdQMzRPYUpyVGVmZlZGZzUxNDU0UWdyU0dyaHJsZjAwazFua254MWxJL0pNS3FubjU5Z0t2bGlxRXdsUT09GAAgACgAMLKLvaSBiYIDOKKnpbC1MUCip6WwtTFKHGFOVDFCV003b09vNVlCSHJ2cVV6cXNZRXZsbz1aHyIdq08vRlZBMVozb0p1Ri9TMStZcFBKWnlmb1Y0VT1lugosURLsAQgHEucBChw1cW9SWW9ueWFxd1VaM0ZMMDNmZklQMjNuSlE9EmZaOkFEcXRBWnk2eFRUeVc2S3VjdTlUZzdDdDVyQzNVVndjT1J6YlpUK2xXWnNxcHNMVE5FZFg2QkhmbGhzYlQ2VGpMS3g2WllnYnE5T3pLRVlxYnVTWERtOUlBSE5oOUJ0SU13PT0YACAAKAAwzYOHgo+UggM45vii5rYxQOb4oua2MUocQW9JOTcvNk51Z0ZZOGpnaU1ZN1VWYzhvRjh3PVofIh3VaTRvREVUVm9NNGdaNWRvMUd5d0RjL3pqcjFzPWV+tU/pEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaelVoRFgzMFVodEhEZS9lbU5RM1U2OUJoTlZqMElQNzFKbmRuWjBrNFZ6UkFZUFoyQ1Q0MitUZ2JsNTlibTZLdkRid1VOWRgAIAAoADC5nr/KnpGDAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeWlrT3grTUNKeWdMVkd0bWVzOHlsaEgvRFdJWkdDZE1lNzBJMHNFdmtxdnRNK2dMb0Z6aFlNemZjNUVpVTliNWE5WXFkWUUzV2RRMlNYMjBFS2RCcGExRGZWQlE9PRgAIAAoADC5nr/KnpGDAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeE8vWitDdndSTDBEamhaRWtNL1p6NytnVXRwNno1WUluVGw2QjFYWWpxU2xNVWpKdzFPNi9WQ0RqQXpSOUk3L0hDTVRLRHJ6d1Z3QWM2bHpCK1puVldTWmR0TVE9PRgAIAAoADC5nr/KnpGDAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

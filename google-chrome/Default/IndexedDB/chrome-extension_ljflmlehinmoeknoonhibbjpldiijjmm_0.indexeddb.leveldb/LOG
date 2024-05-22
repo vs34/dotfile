@@ -1,0 +1,4 @@
+2024/05/14-10:47:28.551 4ac Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/chrome-extension_ljflmlehinmoeknoonhibbjpldiijjmm_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/14-10:47:28.551 4ac Recovering log #114
+2024/05/14-10:47:28.552 4ac Reusing old log /home/vs/.config/google-chrome/Default/IndexedDB/chrome-extension_ljflmlehinmoeknoonhibbjpldiijjmm_0.indexeddb.leveldb/000114.log 
+2024/05/14-10:47:29.348 4ac Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

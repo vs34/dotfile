@@ -1,0 +1,6 @@
+2024/05/20-19:50:57.789 140fa Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/MANIFEST-000001
+2024/05/20-19:50:57.791 140fa Recovering log #36
+2024/05/20-19:50:57.801 140fa Reusing old log /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/000036.log 
+2024/05/20-20:13:11.690 140fb Level-0 table #40: started
+2024/05/20-20:13:11.697 140fb Level-0 table #40: 89546 bytes OK
+2024/05/20-20:13:11.701 140fb Delete type=0 #36

@@ -1,0 +1,2 @@
+import{G as t,I as n}from"./chunk-MXAKFU6F.js";import"./chunk-KJG3EQPP.js";import"./chunk-JFYIYEE3.js";import"./chunk-XAYVH6YF.js";import{h as e,o}from"./chunk-67P5Y4J4.js";o();e();var i=class{__doNotUseIt;reportInfo(r){t([r.message])}reportError(r){n(r.error?.nativeError??new Error(r.message),{type:"multiplatform-sdk"})}reportWarning(r){}};export{i as SimpleDiagnosticReporter};
+//# sourceMappingURL=diagnostic-J4XCMZ4Z.js.map

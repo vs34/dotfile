@@ -1,0 +1,26 @@
+{
+   "copy_link": {
+      "message": "선택한 단어로 가는 링크 복사"
+   },
+   "extension_description": {
+      "message": "웹 페이지안에 임의의 텍스트로 가는 링크를 제공해주는 브라우저 확장 프로그램."
+   },
+   "extension_name": {
+      "message": "링크 투 텍스트 프래그먼트"
+   },
+   "extension_short_name": {
+      "message": "텍스트 프래그먼트"
+   },
+   "link_copy_style": {
+      "message": "링크 복사 스타일"
+   },
+   "link_failure": {
+      "message": "고유한 링크를 생성하지 못했습니다. 긴 영역의 단어들을 선택해주세요."
+   },
+   "raw": {
+      "message": "원시 URL을 복사하십시오."
+   },
+   "rich": {
+      "message": "서식있는 텍스트 링크를 복사합니다."
+   }
+}

@@ -1,0 +1,2 @@
+import{Ka as p,g as P,h as i,m as x,u as l}from"./chunk-MXAKFU6F.js";import{d as s,h as r,o}from"./chunk-67P5Y4J4.js";o();r();var u=s(l()),v=s(P());x();o();r();var n=s(l());function E(t){let e=(0,n.useRef)();return(0,n.useEffect)(()=>{e.current=t},[t]),e.current}var S=()=>{let{useCurrentCursor:t}=p,[e,a]=i(null),A=E(e),m=t(),C=(0,u.useCallback)((0,v.throttle)(c=>{if(c){let f=c.getParentElement()?.ref.value?.ref;f!==A&&a(f)}},200),[]);return(0,u.useEffect)(()=>{C(m)},[m]),{activeElement:e}};export{S as a};
+//# sourceMappingURL=chunk-I2EFUBWC.js.map

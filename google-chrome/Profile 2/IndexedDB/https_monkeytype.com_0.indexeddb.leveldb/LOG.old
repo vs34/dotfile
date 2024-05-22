@@ -1,0 +1,6 @@
+2024/03/21-12:19:58.881 af23 Creating DB /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
+2024/03/21-12:19:58.888 af23 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/21-12:19:58.968 af3d Level-0 table #5: started
+2024/03/21-12:19:58.971 af3d Level-0 table #5: 1319 bytes OK
+2024/03/21-12:19:58.975 af3d Delete type=0 #3
+2024/03/21-12:19:58.975 af23 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

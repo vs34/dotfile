@@ -1,0 +1,6 @@
+2023/12/12-01:12:03.440 160d Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_chat.openai.com_0.indexeddb.leveldb since it was missing.
+2023/12/12-01:12:03.447 160d Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_chat.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-01:12:03.498 160d Level-0 table #5: started
+2023/12/12-01:12:03.500 160d Level-0 table #5: 670 bytes OK
+2023/12/12-01:12:03.504 160d Delete type=0 #3
+2023/12/12-01:12:03.504 160d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

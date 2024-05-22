@@ -1,0 +1,44 @@
+{
+   "copy_link": {
+      "message": "Copy Link to Selected Text"
+   },
+   "extension_description": {
+      "message": "Browser extension that allows for linking to arbitrary text on a page."
+   },
+   "extension_name": {
+      "message": "Link to Text Fragment"
+   },
+   "extension_short_name": {
+      "message": "TextFragment"
+   },
+   "link_copy_style": {
+      "message": "Link copy style"
+   },
+   "link_failure": {
+      "message": "Couldn't create a unique link, please select a longer sequence of words."
+   },
+   "link_text": {
+      "message": "For the 'rich plus raw' style, select or set the word for the link:"
+   },
+   "link_text_option_1": {
+      "message": "[Source]"
+   },
+   "link_text_option_2": {
+      "message": "[Link]"
+   },
+   "link_text_option_3": {
+      "message": "🔗"
+   },
+   "link_text_option_4": {
+      "message": "Custom:"
+   },
+   "raw": {
+      "message": "Copy the raw URL."
+   },
+   "rich": {
+      "message": "Copy a rich text link."
+   },
+   "rich_plus_raw": {
+      "message": "Copy as rich text plus the raw URL."
+   }
+}

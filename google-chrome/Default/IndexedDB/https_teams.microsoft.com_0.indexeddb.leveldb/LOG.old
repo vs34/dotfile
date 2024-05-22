@@ -1,0 +1,25 @@
+2024/04/17-23:18:07.813 f65 Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2024/04/17-23:18:07.833 f65 Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/17-23:18:09.797 f66 Level-0 table #5: started
+2024/04/17-23:18:09.802 f66 Level-0 table #5: 38472 bytes OK
+2024/04/17-23:18:09.805 f66 Delete type=0 #3
+2024/04/17-23:18:09.805 f66 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/17-23:18:10.034 f6a Level-0 table #7: started
+2024/04/17-23:18:10.038 f6a Level-0 table #7: 43466 bytes OK
+2024/04/17-23:18:10.043 f6a Delete type=0 #4
+2024/04/17-23:18:10.044 f6a Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/17-23:18:13.647 f66 Compacting 1@1 + 1@2 files
+2024/04/17-23:18:13.654 f66 Generated table #8@1: 1398 keys, 47504 bytes
+2024/04/17-23:18:13.655 f66 Compacted 1@1 + 1@2 files => 47504 bytes
+2024/04/17-23:18:13.660 f66 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/17-23:18:13.660 f66 Delete type=2 #5
+2024/04/17-23:18:13.660 f66 Delete type=2 #7
+2024/04/17-23:18:17.054 f66 Level-0 table #10: started
+2024/04/17-23:18:17.082 f66 Level-0 table #10: 1402281 bytes OK
+2024/04/17-23:18:17.088 f66 Delete type=0 #6
+2024/04/17-23:18:21.198 f66 Compacting 1@1 + 1@2 files
+2024/04/17-23:18:21.240 f66 Generated table #11@1: 4338 keys, 1046284 bytes
+2024/04/17-23:18:21.240 f66 Compacted 1@1 + 1@2 files => 1046284 bytes
+2024/04/17-23:18:21.243 f66 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/17-23:18:21.243 f66 Delete type=2 #8
+2024/04/17-23:18:21.243 f66 Delete type=2 #10

@@ -1,0 +1,41 @@
+{
+   "description": "Awesome Labrador. Get it now!",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9q0Cmcko4aUOa1WmW78+B5fT9g49EfG1jaw/HrRPY0oyl9kNXcig/Iz09t8GpaaR6ygZLjuD9tHujaACVOvE2E2Hg0OJRzI5myDTxdUcn/iV3dEHmbSqqOYmEuXZ7ihsaNLMUNweCw9HklQflioLdhIt1vGWRJ1N+zcrXJ8mm2xR8O3/94/R/qVpQjH4kIz7xtPyaFLwcr0+9aGZlxrQwQED0Mj33oRWu40LeG3XHCqiWcjuoVT2i77EvXeicStqo2e078BJWZ28U31ZcaciaEtDm9nlprBNlBVFDj5NSu58LlAt7SrvZIOouX+eo/BPhQGpScir2okwZKxuHAPXrwIDAQAB",
+   "manifest_version": 2,
+   "name": "LABRADOR",
+   "short_name": "LAB",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "nt_header": [ 0, 255, 255 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_section": [ 255, 255, 255 ],
+         "ntp_section_link": [ 255, 255, 255 ],
+         "ntp_section_text": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 12, 12, 12 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_frame_inactive": "images/frame_inactive.png",
+         "theme_ntp_background": "images/bg.png",
+         "theme_tab_background": "images/tab.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.5"
+}

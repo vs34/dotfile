@@ -1,0 +1,70 @@
+{
+   "checksum": "ff61157dec54b364fbe2f4af4183e4a5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13347109911764943",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341670483485733",
+            "date_last_used": "0",
+            "guid": "a9f68bf9-5d74-4173-8e79-b072db20cff6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Classwork for Circuit Theory and Devices (2023) ECE215",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/w/NjE3MTg4NDE0Nzk5/t/all"
+         }, {
+            "date_added": "13342429133727562",
+            "date_last_used": "0",
+            "guid": "aafeaba8-2967-4d8e-892a-2865b117deef",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lecture 15 pdf.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1somc0O0IFk8UFpfJ6n_VknYLnR5NIJ1l/view"
+         }, {
+            "date_added": "13342810776673566",
+            "date_last_used": "0",
+            "guid": "82996bd7-500a-488e-a92d-dc9253d9e2d2",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to run .sh file shell script (bash/ksh) in Linux / UNIX - nixCraft",
+            "type": "url",
+            "url": "https://www.cyberciti.biz/faq/run-execute-sh-shell-script/"
+         } ],
+         "date_added": "13347109911764947",
+         "date_last_used": "0",
+         "date_modified": "13342810776673566",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347109911764950",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCRZjHI3FFwYAERZjHI3FFwYAKRh6HI3FFwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJABsfiMUXBgARABsfiMUXBgApKWEcjcUXBgAwgLb8wNj4hQMSACoYT1N4MkhBd1BueVdxbE5oUVJ3WSs5dz09SAMSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4Ty9aK0N2d1JMMERqaFpFa00vWno3K2dVdHA2ejVZSW5UbDZCMVhZanFTbE1Vakp3MU82L1ZDRGpBelI5STcvSENNVEtEcnp3VndBYzZsekIrWm5WV1NaZHRNUT09GAAgACgAMLmev8qekYMDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5aWtPeCtNQ0p5Z0xWR3RtZXM4eWxoSC9EV0laR0NkTWU3MEkwc0V2a3F2dE0rZ0xvRnpoWU16ZmM1RWlVOWI1YTlZcWRZRTNXZFEyU1gyMEVLZEJwYTFEZlZCUT09GAAgACgAMLmev8qekYMDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6VWhEWDMwVWh0SERlL2VtTlEzVTY5QmhOVmowSVA3MUpuZG5aMGs0VnpSQVlQWjJDVDQyK1RnYmw1OWJtNkt2RGJ3VU5ZGAAgACgAMLmev8qekYMDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIBxLnAQocNXFvUllvbnlhcXdVWjNGTDAzZmZJUDIzbkpRPRJmWjpBRHF0QVp5NnhUVHlXNkt1Y3U5VGc3Q3Q1ckMzVVZ3Y09SemJaVCtsV1pzcXBzTFRORWRYNkJIZmxoc2JUNlRqTEt4NlpZZ2JxOU96S0VZcWJ1U1hEbTlJQUhOaDlCdElNdz09GAAgACgAMM2Dh4KPlIIDOOb4oua2MUDm+KLmtjFKHEFvSTk3LzZOdWdGWThqZ2lNWTdVVmM4b0Y4dz1aHyId1Wk0b0RFVFZvTTRnWjVkbzFHeXdEYy96anIxcz1lfrVP6RLsAQgGEucBChwzNm54MW0xL1hMY1lvazBaaVI0R0pSb3d3ZEU9EmZaOkFEcXRBWnk2eFRUeVc2S3VjdTlUZzdDdDVyQzNlN214TXZnNlJRN1AzNE9hSnJUZWZmVkZnNTE0NTRRZ3JTR3JocmxmMDBrMW5rbngxbEkvSk1LcW5uNTlnS3ZsaXFFd2xRPT0YACAAKAAwsou9pIGJggM4oqelsLUxQKKnpbC1MUocYU5UMUJXTTdvT281WUJIcnZxVXpxc1lFdmxvPVofIh2rTy9GVkExWjNvSnVGL1MxK1lwUEpaeWZvVjRVPWW6CixREusBCAUS5gEKHHAvaTZOWkxyb2MvM2xybktpRDkrZk45eUdjZz0SZlo6QURxdEFaeTZ4VFR5VzZLdWN1OVRnN0N0NXJDM01XUmhNY0NyZUE1UEY5clhwNEZqeVlmNWlHODJpRk0wa1NpdHpLdTRSenhPOTdlamo2KzlmZFhrc3ZwVzkwQTAzSlRFZHc9PRgAIEYoRjDFj76OrfiFAzij/MTGsjFA09794/QxShwxN0Q4cExtYXNBRElEMDdLZ3RuWXFnZS9FOGs9Wh4iHFd5VUw5enBhWUcwNVZJK3cyUkdhNzBRV0xJaz1lno7QQTABOAA=",
+   "version": 1
+}

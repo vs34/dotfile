@@ -1,0 +1,18 @@
+2023/12/12-01:10:35.451 160e Creating DB /home/vs/.config/google-chrome/Default/IndexedDB/https_auth0.openai.com_0.indexeddb.leveldb since it was missing.
+2023/12/12-01:10:35.457 160e Reusing MANIFEST /home/vs/.config/google-chrome/Default/IndexedDB/https_auth0.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-01:10:35.485 160e Level-0 table #5: started
+2023/12/12-01:10:35.489 160e Level-0 table #5: 677 bytes OK
+2023/12/12-01:10:35.494 160e Delete type=0 #3
+2023/12/12-01:10:35.494 160d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/12-01:10:43.391 160e Level-0 table #7: started
+2023/12/12-01:10:43.394 160e Level-0 table #7: 1447 bytes OK
+2023/12/12-01:10:43.398 160e Delete type=0 #4
+2023/12/12-01:10:43.399 160e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/12-01:10:43.399 160e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x009\x003\x008\x006\x003\x002\x000\x004\x007\x009\x007\x00:\x00w\x00e\x00b\x00:\x000\x00b\x006\x00f\x009\x006\x003\x00b\x00f\x007\x00d\x00f\x00e\x00a\x005\x00a\x002\x008\x00b\x00c\x00d\x004' @ 68 : 1
+2023/12/12-01:10:43.399 160e Compacting 1@1 + 1@2 files
+2023/12/12-01:10:43.405 160e Generated table #8@1: 21 keys, 962 bytes
+2023/12/12-01:10:43.406 160e Compacted 1@1 + 1@2 files => 962 bytes
+2023/12/12-01:10:43.409 160e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/12-01:10:43.410 160e Delete type=2 #5
+2023/12/12-01:10:43.410 160e Delete type=2 #7
+2023/12/12-01:10:43.410 160e Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x009\x003\x008\x006\x003\x002\x000\x004\x007\x009\x007\x00:\x00w\x00e\x00b\x00:\x000\x00b\x006\x00f\x009\x006\x003\x00b\x00f\x007\x00d\x00f\x00e\x00a\x005\x00a\x002\x008\x00b\x00c\x00d\x004' @ 68 : 1 .. (end); will stop at (end)

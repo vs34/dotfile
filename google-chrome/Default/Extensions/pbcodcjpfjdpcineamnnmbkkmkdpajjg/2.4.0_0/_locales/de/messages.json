@@ -1,0 +1,44 @@
+{
+   "copy_link": {
+      "message": "Link zu ausgewähltem Text kopieren"
+   },
+   "extension_description": {
+      "message": "Browser Extension, die das Verlinken auf beliebigen Text auf einer Seite ermöglicht."
+   },
+   "extension_name": {
+      "message": "Link zu Textfragment"
+   },
+   "extension_short_name": {
+      "message": "Textfragment"
+   },
+   "link_copy_style": {
+      "message": "Kopier-Stil"
+   },
+   "link_failure": {
+      "message": "Ein eindeutiger Link konnte nicht erstellt werden, bitte eine längere Wortsequenz auswählen."
+   },
+   "link_text": {
+      "message": "Für den 'Rich Text Link plus rohe URL' Stil, wähle oder setze das Wort für den Link-Text:"
+   },
+   "link_text_option_1": {
+      "message": "[Quelle]"
+   },
+   "link_text_option_2": {
+      "message": "[Link]"
+   },
+   "link_text_option_3": {
+      "message": "🔗"
+   },
+   "link_text_option_4": {
+      "message": "Anpassen:"
+   },
+   "raw": {
+      "message": "Kopiere rohe URLs."
+   },
+   "rich": {
+      "message": "Kopiere Rich Text Links."
+   },
+   "rich_plus_raw": {
+      "message": "Kopiere als Rich Text Link plus rohe URL."
+   }
+}

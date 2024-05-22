@@ -1,0 +1,2 @@
+import{f as a,h as g,j as r,o as m}from"./chunk-67P5Y4J4.js";m();g();var l=({src:t,alt:e,...s})=>r("img",{src:t.startsWith("https://")?t:a.runtime.getURL(`images/${t}`),alt:e,...s}),n=({flag:t,width:e,height:s,...o})=>{let i=t.startsWith("https://")?t:`flags/${t}`;return r(l,{src:i,alt:t.replace(/(\.svg$)/,""),style:{borderRadius:"50%",width:e,height:s,objectFit:"cover"},...o})};export{l as a,n as b};
+//# sourceMappingURL=chunk-XGYFSZQ6.js.map

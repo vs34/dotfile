@@ -1,0 +1,20 @@
+2024/05/05-21:33:56.679 4fad Reusing MANIFEST /home/vs/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/05/05-21:33:56.690 4fad Recovering log #27
+2024/05/05-21:33:56.690 4fad Reusing old log /home/vs/.config/discord/Local Storage/leveldb/000027.log 
+2024/05/05-21:36:43.815 4fad Level-0 table #31: started
+2024/05/05-21:36:43.826 4fad Level-0 table #31: 757734 bytes OK
+2024/05/05-21:36:43.830 4fad Delete type=0 #27
+2024/05/05-21:36:43.831 4fad Compacting 4@0 + 2@1 files
+2024/05/05-21:36:43.843 4fad Generated table #32@0: 6 keys, 2306538 bytes
+2024/05/05-21:36:43.865 4fad Generated table #33@0: 53 keys, 762507 bytes
+2024/05/05-21:36:43.865 4fad Compacted 4@0 + 2@1 files => 3069045 bytes
+2024/05/05-21:36:43.868 4fad compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/05/05-21:36:43.869 4fad Delete type=2 #21
+2024/05/05-21:36:43.869 4fad Delete type=2 #26
+2024/05/05-21:36:43.869 4fad Delete type=2 #22
+2024/05/05-21:36:43.869 4fad Delete type=2 #28
+2024/05/05-21:36:43.869 4fad Delete type=2 #31
+2024/05/05-21:36:43.869 4fad Delete type=2 #24
+2024/05/06-14:38:05.478 4fad Level-0 table #35: started
+2024/05/06-14:38:05.495 4fad Level-0 table #35: 2314371 bytes OK
+2024/05/06-14:38:05.499 4fad Delete type=0 #30
