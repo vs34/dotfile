@@ -1,2 +1,7 @@
-2024/02/25-15:54:06.223 921 Creating DB /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb since it was missing.
-2024/02/25-15:54:06.230 921 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/26-14:12:09.487 b059 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/26-14:12:09.487 b059 Recovering log #3
+2024/05/26-14:12:09.488 b059 Reusing old log /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb/000003.log 
+2024/05/26-14:12:11.552 b059 Level-0 table #5: started
+2024/05/26-14:12:11.555 b059 Level-0 table #5: 1239 bytes OK
+2024/05/26-14:12:11.558 b059 Delete type=0 #3
+2024/05/26-14:12:11.559 b059 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

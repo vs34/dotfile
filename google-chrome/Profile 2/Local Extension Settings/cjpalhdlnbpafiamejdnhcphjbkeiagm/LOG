@@ -1,6 +1,9 @@
-2024/05/22-13:39:28.690 7064 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/05/22-13:39:28.692 7064 Recovering log #2200
-2024/05/22-13:39:28.698 7064 Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002200.log 
-2024/05/22-13:40:26.174 7064 Level-0 table #2204: started
-2024/05/22-13:40:26.249 7064 Level-0 table #2204: 6747861 bytes OK
-2024/05/22-13:40:26.253 7064 Delete type=0 #2200
+2024/06/03-15:11:16.041 698 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/06/03-15:11:16.044 698 Recovering log #2319
+2024/06/03-15:11:16.047 698 Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002319.log 
+2024/06/03-15:11:56.110 698 Level-0 table #2323: started
+2024/06/03-15:11:56.141 698 Level-0 table #2323: 4964699 bytes OK
+2024/06/03-15:11:56.145 698 Delete type=0 #2319
+2024/06/03-15:12:53.021 698 Level-0 table #2325: started
+2024/06/03-15:12:53.094 698 Level-0 table #2325: 7217047 bytes OK
+2024/06/03-15:12:53.098 698 Delete type=0 #2322

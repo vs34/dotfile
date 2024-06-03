@@ -1,3 +1,18 @@
-2024/05/22-13:38:37.186 6dba Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
-2024/05/22-13:38:37.187 6dba Recovering log #250
-2024/05/22-13:38:37.191 6dba Reusing old log /home/vs/.config/google-chrome/Profile 2/Sync Data/LevelDB/000250.log 
+2024/06/03-00:04:26.579 33f1 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2024/06/03-00:04:26.580 33f1 Recovering log #260
+2024/06/03-00:04:26.606 33f1 Reusing old log /home/vs/.config/google-chrome/Profile 2/Sync Data/LevelDB/000260.log 
+2024/06/03-00:06:21.498 33f0 Level-0 table #264: started
+2024/06/03-00:06:21.506 33f0 Level-0 table #264: 111847 bytes OK
+2024/06/03-00:06:21.510 33f0 Delete type=0 #260
+2024/06/03-11:50:23.508 33f5 Level-0 table #266: started
+2024/06/03-11:50:23.516 33f5 Level-0 table #266: 84251 bytes OK
+2024/06/03-11:50:23.521 33f5 Delete type=0 #263
+2024/06/03-11:50:23.523 33f5 Compacting 4@0 + 1@1 files
+2024/06/03-11:50:23.533 33f5 Generated table #267@0: 211 keys, 29943 bytes
+2024/06/03-11:50:23.533 33f5 Compacted 4@0 + 1@1 files => 29943 bytes
+2024/06/03-11:50:23.537 33f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/03-11:50:23.537 33f5 Delete type=2 #264
+2024/06/03-11:50:23.537 33f5 Delete type=2 #258
+2024/06/03-11:50:23.538 33f5 Delete type=2 #255
+2024/06/03-11:50:23.538 33f5 Delete type=2 #261
+2024/06/03-11:50:23.538 33f5 Delete type=2 #266

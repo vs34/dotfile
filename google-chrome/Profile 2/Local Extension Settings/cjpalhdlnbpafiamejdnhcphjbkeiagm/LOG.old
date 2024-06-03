@@ -1,6 +1,48 @@
-2024/05/22-13:38:38.043 6dbf Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/05/22-13:38:38.045 6dbf Recovering log #2197
-2024/05/22-13:38:38.046 6dbf Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002197.log 
-2024/05/22-13:39:17.136 6dbb Level-0 table #2201: started
-2024/05/22-13:39:17.156 6dbb Level-0 table #2201: 5520124 bytes OK
-2024/05/22-13:39:17.159 6dbb Delete type=0 #2197
+2024/06/03-00:04:27.893 33f0 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/06/03-00:04:27.898 33f0 Recovering log #2300
+2024/06/03-00:04:27.909 33f0 Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002300.log 
+2024/06/03-00:04:33.381 33f0 Level-0 table #2304: started
+2024/06/03-00:04:33.404 33f0 Level-0 table #2304: 4829662 bytes OK
+2024/06/03-00:04:33.435 33f0 Delete type=0 #2300
+2024/06/03-00:04:33.463 33f0 Compacting 4@0 + 4@1 files
+2024/06/03-00:04:33.504 33f0 Generated table #2305@0: 4 keys, 2449611 bytes
+2024/06/03-00:04:33.544 33f0 Generated table #2306@0: 6 keys, 2431756 bytes
+2024/06/03-00:04:33.625 33f0 Generated table #2307@0: 13 keys, 1877155 bytes
+2024/06/03-00:04:33.626 33f0 Compacted 4@0 + 4@1 files => 6758522 bytes
+2024/06/03-00:04:33.658 33f0 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2297
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2304
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2291
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2301
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2292
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2289
+2024/06/03-00:04:33.658 33f0 Delete type=2 #2299
+2024/06/03-00:04:33.659 33f0 Delete type=2 #2293
+2024/06/03-00:05:35.588 33f0 Level-0 table #2309: started
+2024/06/03-00:05:35.637 33f0 Level-0 table #2309: 6072716 bytes OK
+2024/06/03-00:05:35.641 33f0 Delete type=0 #2303
+2024/06/03-01:05:33.036 33f1 Level-0 table #2311: started
+2024/06/03-01:05:33.059 33f1 Level-0 table #2311: 5147307 bytes OK
+2024/06/03-01:05:33.064 33f1 Delete type=0 #2308
+2024/06/03-01:05:36.756 33f0 Level-0 table #2313: started
+2024/06/03-01:05:36.797 33f0 Level-0 table #2313: 4252637 bytes OK
+2024/06/03-01:05:36.800 33f0 Delete type=0 #2310
+2024/06/03-10:49:05.884 33f1 Level-0 table #2315: started
+2024/06/03-10:49:05.902 33f1 Level-0 table #2315: 4461299 bytes OK
+2024/06/03-10:49:05.906 33f1 Delete type=0 #2312
+2024/06/03-10:49:05.908 33f1 Compacting 4@0 + 3@1 files
+2024/06/03-10:49:05.924 33f1 Generated table #2316@0: 4 keys, 2451209 bytes
+2024/06/03-10:49:05.939 33f1 Generated table #2317@0: 8 keys, 2614318 bytes
+2024/06/03-10:49:05.981 33f1 Generated table #2318@0: 14 keys, 1929796 bytes
+2024/06/03-10:49:05.981 33f1 Compacted 4@0 + 3@1 files => 6995323 bytes
+2024/06/03-10:49:05.984 33f1 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2307
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2313
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2309
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2306
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2305
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2311
+2024/06/03-10:49:05.984 33f1 Delete type=2 #2315
+2024/06/03-10:50:02.989 33f0 Level-0 table #2320: started
+2024/06/03-10:50:03.038 33f0 Level-0 table #2320: 6769097 bytes OK
+2024/06/03-10:50:03.042 33f0 Delete type=0 #2314

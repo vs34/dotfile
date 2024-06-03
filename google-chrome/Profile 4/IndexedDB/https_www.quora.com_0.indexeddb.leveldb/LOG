@@ -1,0 +1,6 @@
+2024/05/25-20:57:11.440 3133 Creating DB /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_www.quora.com_0.indexeddb.leveldb since it was missing.
+2024/05/25-20:57:11.448 3133 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/25-20:57:18.072 3133 Level-0 table #5: started
+2024/05/25-20:57:18.075 3133 Level-0 table #5: 3110 bytes OK
+2024/05/25-20:57:18.079 3133 Delete type=0 #3
+2024/05/25-20:57:18.079 3133 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

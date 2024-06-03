@@ -1,3 +1,3 @@
-2024/05/22-13:38:38.086 6dbf Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/22-13:38:38.086 6dbf Recovering log #175
-2024/05/22-13:38:38.087 6dbf Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000175.log 
+2024/06/03-12:51:45.052 33f0 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/03-12:51:45.080 33f0 Recovering log #187
+2024/06/03-12:51:45.083 33f0 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000187.log 
