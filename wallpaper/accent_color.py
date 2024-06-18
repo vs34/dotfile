@@ -83,4 +83,5 @@ if __name__ == "__main__":
     os.system(loadwall)
     os.system(setwall)
     print(qr)
+    print(loadwall)
     print(setwall)
