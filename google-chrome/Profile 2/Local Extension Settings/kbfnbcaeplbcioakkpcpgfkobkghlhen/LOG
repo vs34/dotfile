@@ -1,12 +1,7 @@
-2024/06/03-15:11:16.360 69c Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/MANIFEST-000001
-2024/06/03-15:11:16.362 69c Recovering log #123
-2024/06/03-15:11:16.386 69c Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/000123.log 
-2024/06/03-15:56:31.935 698 Level-0 table #128: started
-2024/06/03-15:56:31.985 698 Level-0 table #128: 1177710 bytes OK
-2024/06/03-15:56:31.990 698 Delete type=0 #123
-2024/06/03-16:06:58.931 698 Compacting 1@0 + 1@1 files
-2024/06/03-16:06:58.973 698 Generated table #129@0: 24 keys, 24025 bytes
-2024/06/03-16:06:58.973 698 Compacted 1@0 + 1@1 files => 24025 bytes
-2024/06/03-16:06:58.976 698 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/06/03-16:06:58.977 698 Delete type=2 #125
-2024/06/03-16:06:58.977 698 Delete type=2 #128
+2024/06/12-12:01:17.520 5f9 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/MANIFEST-000001
+2024/06/12-12:01:36.714 5f6 Compacting 2@0 + 0@1 files
+2024/06/12-12:01:36.727 5f6 Generated table #133@0: 24 keys, 24393 bytes
+2024/06/12-12:01:36.727 5f6 Compacted 2@0 + 0@1 files => 24393 bytes
+2024/06/12-12:01:36.730 5f6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/12-12:01:36.731 5f6 Delete type=2 #130
+2024/06/12-12:01:36.731 5f6 Delete type=2 #129

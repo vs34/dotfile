@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="297" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="297" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="297" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="297" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="12" width="1896" height="1028" />
+  </component>
+</application>

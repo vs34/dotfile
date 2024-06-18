@@ -1,0 +1,7 @@
+<application>
+  <component name="MLServerCompletionSettings">
+    <LangState language_id="JupyterPython">
+      <option name="filterModelEnabled" value="false" />
+    </LangState>
+  </component>
+</application>

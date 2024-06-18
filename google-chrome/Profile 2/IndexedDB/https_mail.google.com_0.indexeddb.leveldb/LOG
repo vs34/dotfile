@@ -1,3 +1,6 @@
-2024/06/03-15:11:24.041 697 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/03-15:11:24.041 697 Recovering log #191
-2024/06/03-15:11:24.042 697 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000191.log 
+2024/06/11-18:11:02.878 3a2f Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/11-18:11:02.879 3a2f Recovering log #191
+2024/06/11-18:11:02.887 3a2f Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000191.log 
+2024/06/11-18:11:22.596 3a2f Level-0 table #196: started
+2024/06/11-18:11:22.639 3a2f Level-0 table #196: 2773384 bytes OK
+2024/06/11-18:11:22.643 3a2f Delete type=0 #191

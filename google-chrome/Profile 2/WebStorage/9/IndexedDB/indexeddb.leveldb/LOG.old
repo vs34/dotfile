@@ -1,3 +1,20 @@
-2024/05/30-23:03:24.336 5f0c Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/WebStorage/9/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/05/30-23:03:24.336 5f0c Recovering log #98
-2024/05/30-23:03:24.347 5f0c Reusing old log /home/vs/.config/google-chrome/Profile 2/WebStorage/9/IndexedDB/indexeddb.leveldb/000098.log 
+2024/06/07-15:21:49.799 de3 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/WebStorage/9/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/07-15:21:49.799 de3 Recovering log #102
+2024/06/07-15:21:49.801 de3 Reusing old log /home/vs/.config/google-chrome/Profile 2/WebStorage/9/IndexedDB/indexeddb.leveldb/000102.log 
+2024/06/07-15:21:49.833 de3 Level-0 table #106: started
+2024/06/07-15:21:49.837 de3 Level-0 table #106: 102245 bytes OK
+2024/06/07-15:21:49.841 de3 Delete type=0 #102
+2024/06/07-15:21:49.841 de3 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0\x8fp\xfa\xfdxB\x00\x03\x00\x00\x00\x00\x00\x80J@' @ 48199 : 1
+2024/06/07-15:21:49.841 de3 Compacting 1@0 + 1@1 files
+2024/06/07-15:21:49.846 de3 Generated table #107@0: 678 keys, 13165 bytes
+2024/06/07-15:21:49.846 de3 Compacted 1@0 + 1@1 files => 13165 bytes
+2024/06/07-15:21:49.849 de3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/07-15:21:49.849 de3 Delete type=2 #106
+2024/06/07-15:21:49.849 de3 Manual compaction at level-0 from '\x00\x0a\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0\x8fp\xfa\xfdxB\x00\x03\x00\x00\x00\x00\x00\x80J@' @ 48199 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/07-15:25:03.127 de4 Compacting 1@1 + 1@2 files
+2024/06/07-15:25:03.142 de4 Generated table #108@1: 68 keys, 7401 bytes
+2024/06/07-15:25:03.142 de4 Compacted 1@1 + 1@2 files => 7401 bytes
+2024/06/07-15:25:03.145 de4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/07-15:25:03.145 de4 Delete type=2 #103
+2024/06/07-15:25:03.145 de4 Delete type=2 #100
+2024/06/07-15:25:03.145 de4 Delete type=2 #107

@@ -1,3 +1,7 @@
-2024/06/03-00:04:27.803 33f0 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/MANIFEST-000001
-2024/06/03-00:04:27.806 33f0 Recovering log #123
-2024/06/03-00:04:27.822 33f0 Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/000123.log 
+2024/06/12-12:01:17.506 5f9 Log #127: dropping 19008 bytes; Corruption: missing start of fragmented record(2)
+2024/06/12-12:01:17.512 5f9 Log #127: 422 ops saved to Table #130 OK
+2024/06/12-12:01:17.512 5f9 Archiving /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/000127.log: OK
+2024/06/12-12:01:17.513 5f9 Table #129: 24 entries OK
+2024/06/12-12:01:17.517 5f9 Table #130: 422 entries OK
+2024/06/12-12:01:17.517 5f9 Archiving /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/MANIFEST-000001: OK
+2024/06/12-12:01:17.520 5f9 **** Repaired leveldb /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen; recovered 2 files; 368642 bytes. Some data may have been lost. ****

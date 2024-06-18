@@ -1,0 +1,202 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="camshot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1ohk9cl2x50wu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/req.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3168">
+              <caret line="179" selection-start-line="179" selection-end-line="179" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1718182138281
+    },
+    "Python": {
+      "usageCount": 7,
+      "lastUsed": 1718182139609
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/req.txt.py" />
+      <option value="$PROJECT_DIR$/req.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="7" lastUsage="1718182139610" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1718182138286" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="camshot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vs/PycharmProjects/camshot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="camshot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vs/PycharmProjects/camshot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vs/PycharmProjects/camshot/.venv}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3622000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33031917" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33025292" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.33025292" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.33025292" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.33025292" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32990506" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.33025292" left="0.33031917" right="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Python Console</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="197" key="#Python_Package_Repositories" timestamp="1718176452146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="197" key="#Python_Package_Repositories/0.0.1920.1080@0.0.1920.1080" timestamp="1718176452146" />
+    <state width="1814" height="297" key="GridCell.Tab.0.bottom" timestamp="1718177789931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1718177789931" />
+    <state width="1814" height="297" key="GridCell.Tab.0.center" timestamp="1718177789931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1718177789931" />
+    <state width="1814" height="297" key="GridCell.Tab.0.left" timestamp="1718177789931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1718177789931" />
+    <state width="1814" height="297" key="GridCell.Tab.0.right" timestamp="1718177789931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1718177789931" />
+    <state x="1413" y="732" width="474" height="267" key="ProcessPopupWindow" timestamp="1718174825213">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1413" y="732" width="474" height="267" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1718174825213" />
+    <state x="560" y="200" key="PythonInterpreterConfigurable.size" timestamp="1718177002022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="200" key="PythonInterpreterConfigurable.size/0.0.1920.1080@0.0.1920.1080" timestamp="1718177002022" />
+    <state x="469" y="176" key="SettingsEditor" timestamp="1718177022313">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="176" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1718177022313" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1718174702837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1718174702837" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/req.txt.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/req.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1718176634108" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="61" l="1718176642972" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1718176935698" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1718176477460" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1718176609345" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1718176645829" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1718177026866" />
+    </e>
+    <e n="NewElement">
+      <i c="3" l="1718177731078" />
+    </e>
+    <e n="NewFile">
+      <i c="2" l="1718176638748" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="3" l="1718177733993" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1718174601172" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1718176647284" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1718174697030" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1718176966447" />
+    </e>
+    <e n="Table-selectNextRow">
+      <i c="291" l="1718176485781" />
+    </e>
+    <e n="Table-selectNextRowExtendSelection">
+      <i c="4" l="1718176351293" />
+    </e>
+    <e n="Table-selectPreviousRow">
+      <i c="120" l="1718176460053" />
+    </e>
+    <e n="Table-selectPreviousRowExtendSelection">
+      <i c="71" l="1718176368835" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="1" l="1718174143223" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="17" l="1718177742622" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="6" l="1718177729090" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1718174075431" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1718174178478" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="6" l="1718177054407" />
+    </e>
+    <e n="com.jetbrains.python.packaging.toolwindow.PyPackagingToolWindowPanel$initOrientation$2">
+      <i c="3" l="1718176778891" />
+    </e>
+    <e n="com.jetbrains.python.packaging.toolwindow.PyPackagingToolWindowPanel$initOrientation$4">
+      <i c="2" l="1718176446224" />
+    </e>
+  </component>
+</application>

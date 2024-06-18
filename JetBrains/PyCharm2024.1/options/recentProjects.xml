@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/camshot">
+          <value>
+            <RecentProjectMetaInfo frameTitle="camshot" opened="true" projectWorkspaceId="2hlgTYamknvE3KDqleva22Bngg5">
+              <option name="activationTimestamp" value="1718177764808" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.17890.14" />
+              <option name="buildTimestamp" value="1717530660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="12" y="12" width="1896" height="1028" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1718174086362" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/camshot_conda">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2hlmWs1Yie8mgTkN4SVRp3Jyn0i">
+              <option name="activationTimestamp" value="1718177735852" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.17890.14" />
+              <option name="buildTimestamp" value="1717530660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1718177072557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/PycharmProjects/camshot" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>
