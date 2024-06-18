@@ -1,3 +1,15 @@
-2024/06/11-18:11:22.260 3a33 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/11-18:11:22.260 3a33 Recovering log #47
-2024/06/11-18:11:22.261 3a33 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000047.log 
+2024/06/18-17:03:38.019 2431e Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/18-17:03:38.019 2431e Recovering log #47
+2024/06/18-17:03:38.021 2431e Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000047.log 
+2024/06/18-19:48:12.422 24322 Level-0 table #52: started
+2024/06/18-19:48:12.438 24322 Level-0 table #52: 209 bytes OK
+2024/06/18-19:48:12.442 24322 Delete type=0 #47
+2024/06/18-19:48:12.443 24322 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/18-19:48:12.445 24322 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 3949 : 1
+2024/06/18-19:48:12.445 24322 Compacting 1@1 + 1@2 files
+2024/06/18-19:48:12.450 24322 Generated table #53@1: 268 keys, 61438 bytes
+2024/06/18-19:48:12.450 24322 Compacted 1@1 + 1@2 files => 61438 bytes
+2024/06/18-19:48:12.457 24322 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/18-19:48:12.458 24322 Delete type=2 #52
+2024/06/18-19:48:12.459 24322 Delete type=2 #49
+2024/06/18-19:48:12.462 24322 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 3949 : 1 .. (end); will stop at (end)

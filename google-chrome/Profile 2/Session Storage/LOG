@@ -1,3 +1,6 @@
-2024/06/12-12:01:24.715 4 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Session Storage/MANIFEST-000001
-2024/06/12-12:01:24.716 4 Recovering log #296
-2024/06/12-12:01:24.717 4 Reusing old log /home/vs/.config/google-chrome/Profile 2/Session Storage/000296.log 
+2024/06/18-17:03:25.419 4 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Session Storage/MANIFEST-000001
+2024/06/18-17:03:25.420 4 Recovering log #296
+2024/06/18-17:03:25.422 4 Reusing old log /home/vs/.config/google-chrome/Profile 2/Session Storage/000296.log 
+2024/06/18-17:03:32.009 5 Level-0 table #300: started
+2024/06/18-17:03:32.015 5 Level-0 table #300: 18318 bytes OK
+2024/06/18-17:03:32.019 5 Delete type=0 #296

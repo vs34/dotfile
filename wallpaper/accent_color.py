@@ -2,9 +2,10 @@ from PIL import Image
 from sklearn.cluster import KMeans
 import numpy as np
 import sys
+import os
 
 
-def get_dominant_colors(image_path, k=4):
+def get_dominant_colors(image_path, k=4, brightness_factor=2):
     """
     Analyzes an image and returns a list of k dominant colors.
 
@@ -38,7 +39,20 @@ def get_dominant_colors(image_path, k=4):
     sorted_luminosities, sorted_colors = zip(*sorted_data)
 
     # Select the top 2 lightest and 2 darkest colors
-    return list(sorted_colors[:2]), list(sorted_colors[-2:])
+    # return list(sorted_colors[:2]), list(sorted_colors[-2:])
+    amplified_colors = []
+    for color in sorted_colors[:2] + sorted_colors[-2:]:
+        # Clamp color values to 0-255 to avoid overflow during amplification
+        amplified_color = [min(int(c * brightness_factor), 255) for c in color]
+        amplified_colors.append(amplified_color)
+        # print(sorted_colors)
+    hex_colors = []
+    for color in amplified_colors:
+        # Format each color as a zero-padded hex string (e.g., #FF0000)
+        hex_color = "#{:02x}{:02x}{:02x}".format(color[0], color[1], color[2])
+        hex_colors.append(hex_color)
+
+    return hex_colors
 
 
 def write_colors_to_file(colors, filename):
@@ -51,13 +65,22 @@ def write_colors_to_file(colors, filename):
     """
     with open(filename, "w") as file:
         for color in colors:
-            file.write(f"{color[0]}, {color[1]}, {color[2]}\n")
+            file.write(f"{color}\n")
 
 
 if __name__ == "__main__":
     wallpaper_path = sys.argv[1]
-    light_colors, dark_colors = get_dominant_colors(wallpaper_path)
+    colors = get_dominant_colors(wallpaper_path)
     print("Extracted accent colors:")
-    write_colors_to_file(dark_colors+light_colors, 'colors')
-    print(light_colors, dark_colors)
-    light_colors, dark_colors = light_colors[0:2], dark_colors[0:2]
+    write_colors_to_file(colors, 'colors')
+    print(colors)
+    # qr = 'hyprctl --batch "keyword general:col.inactive_border  rgba('+str(colors[0])[1:]+'ff)  rgba('+str(colors[1])[1:]+'ff)  90deg ;keyword general:col.active_border  rgba('+str(colors[2])[1:]+'ff)  rgba('+str(colors[3])[1:]+'ff)  90deg ;"'
+    qr = f'hyprctl --batch "keyword general:col.inactive_border rgba({str(colors[0])[1:]}ff) rgba({str(colors[1])[1:]}ff) 90deg ;keyword general:col.active_border rgba({str(colors[2])[1:]}ff) rgba({str(colors[3])[1:]}ff) 90deg ;"'
+    # setwall = 'hyprctl --batch" hyprpaper preload '~/.config/wallpaper+wallpaper_path/' ;hyprpaper wallpaper 'eDP-1,~/.config/wallpaper/+wallpaper_path'"'
+    loadwall = f'hyprctl hyprpaper preload ~/.config/wallpaper/{wallpaper_path}'
+    setwall = f'hyprctl hyprpaper wallpaper eDP-1,~/.config/wallpaper/{wallpaper_path}'
+    os.system(qr)
+    os.system(loadwall)
+    os.system(setwall)
+    print(qr)
+    print(setwall)
