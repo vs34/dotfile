@@ -1,3 +1,15 @@
-2024/06/11-18:11:18.056 3a30 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/11-18:11:18.057 3a30 Recovering log #26
-2024/06/11-18:11:18.065 3a30 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000026.log 
+2024/06/18-17:03:32.718 2431f Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/18-17:03:32.718 2431f Recovering log #26
+2024/06/18-17:03:32.729 2431f Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000026.log 
+2024/06/18-19:48:12.423 2432c Level-0 table #31: started
+2024/06/18-19:48:12.458 2432c Level-0 table #31: 3036103 bytes OK
+2024/06/18-19:48:12.465 2432c Delete type=0 #26
+2024/06/18-19:48:12.467 2431e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/18-19:48:12.467 2431e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x00e\x00c\x000\x00e\x007\x00f\x004\x000\x005\x007\x00d\x006\x006\x009\x006\x008\x004\x00d\x000\x001\x005\x00c\x000\x003\x006\x005\x00e\x00c\x007\x005\x009\x00c\x00_\x003\x00_\x005\x00:\x000\x000' @ 21998 : 1
+2024/06/18-19:48:12.468 2431e Compacting 1@1 + 1@2 files
+2024/06/18-19:48:12.476 2431e Generated table #32@1: 89 keys, 67728 bytes
+2024/06/18-19:48:12.476 2431e Compacted 1@1 + 1@2 files => 67728 bytes
+2024/06/18-19:48:12.479 2431e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/18-19:48:12.480 2431e Delete type=2 #28
+2024/06/18-19:48:12.480 2431e Delete type=2 #31
+2024/06/18-19:48:12.482 2431e Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x00e\x00c\x000\x00e\x007\x00f\x004\x000\x005\x007\x00d\x006\x006\x009\x006\x008\x004\x00d\x000\x001\x005\x00c\x000\x003\x006\x005\x00e\x00c\x007\x005\x009\x00c\x00_\x003\x00_\x005\x00:\x000\x000' @ 21998 : 1 .. (end); will stop at (end)

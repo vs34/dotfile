@@ -1,3 +1,15 @@
-2024/06/03-11:15:11.137 33f0 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/03-11:15:11.137 33f0 Recovering log #15
-2024/06/03-11:15:11.137 33f0 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb/000015.log 
+2024/06/21-01:03:30.801 1b182 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/21-01:03:30.801 1b182 Recovering log #15
+2024/06/21-01:03:30.801 1b182 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb/000015.log 
+2024/06/21-01:44:48.723 1b182 Level-0 table #20: started
+2024/06/21-01:44:48.726 1b182 Level-0 table #20: 209 bytes OK
+2024/06/21-01:44:48.729 1b182 Delete type=0 #15
+2024/06/21-01:44:48.730 1b182 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/21-01:44:48.730 1b182 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 294 : 1
+2024/06/21-01:44:48.730 1b182 Compacting 1@1 + 1@2 files
+2024/06/21-01:44:48.733 1b182 Generated table #21@1: 44 keys, 26384 bytes
+2024/06/21-01:44:48.733 1b182 Compacted 1@1 + 1@2 files => 26384 bytes
+2024/06/21-01:44:48.736 1b182 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/21-01:44:48.736 1b182 Delete type=2 #17
+2024/06/21-01:44:48.736 1b182 Delete type=2 #20
+2024/06/21-01:44:48.737 1b182 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 294 : 1 .. (end); will stop at (end)

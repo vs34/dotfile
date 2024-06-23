@@ -1,3 +1,24 @@
-2024/06/12-11:54:39.065 1896 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/MANIFEST-000001
-2024/06/12-11:54:39.067 1896 Recovering log #88
-2024/06/12-11:54:39.070 1896 Reusing old log /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/000088.log 
+2024/06/22-14:08:50.243 29e9b Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/MANIFEST-000001
+2024/06/22-14:08:50.248 29e9b Recovering log #88
+2024/06/22-14:08:50.257 29e9b Reusing old log /home/vs/.config/google-chrome/Profile 4/Sync Data/LevelDB/000088.log 
+2024/06/22-16:33:25.106 29e9b Level-0 table #92: started
+2024/06/22-16:33:25.114 29e9b Level-0 table #92: 85550 bytes OK
+2024/06/22-16:33:25.133 29e9b Delete type=0 #88
+2024/06/22-20:10:30.092 29e9e Level-0 table #94: started
+2024/06/22-20:10:30.100 29e9e Level-0 table #94: 83661 bytes OK
+2024/06/22-20:10:30.103 29e9e Delete type=0 #91
+2024/06/22-21:21:55.771 29e9a Level-0 table #96: started
+2024/06/22-21:21:55.777 29e9a Level-0 table #96: 73252 bytes OK
+2024/06/22-21:21:55.781 29e9a Delete type=0 #93
+2024/06/22-21:21:55.783 29e9a Compacting 4@0 + 1@1 files
+2024/06/22-21:21:55.790 29e9a Generated table #97@0: 99 keys, 19175 bytes
+2024/06/22-21:21:55.790 29e9a Compacted 4@0 + 1@1 files => 19175 bytes
+2024/06/22-21:21:55.793 29e9a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/22-21:21:55.793 29e9a Delete type=2 #92
+2024/06/22-21:21:55.794 29e9a Delete type=2 #87
+2024/06/22-21:21:55.794 29e9a Delete type=2 #96
+2024/06/22-21:21:55.794 29e9a Delete type=2 #89
+2024/06/22-21:21:55.794 29e9a Delete type=2 #94
+2024/06/22-21:56:17.914 29e9a Level-0 table #99: started
+2024/06/22-21:56:17.920 29e9a Level-0 table #99: 73271 bytes OK
+2024/06/22-21:56:17.925 29e9a Delete type=0 #95

@@ -142,13 +142,13 @@ style = mono
 background = '#000000'
 gradient = 1
 gradient_count = 2
-gradient_color_1 = '#FFA334'
+gradient_color_1 = '#9ce458'
 # gradient_color_2 = '#21007c'
 # gradient_color_3 = '#4700b2'
 # gradient_color_4 = '#1000f0'
-gradient_color_2 = '#CC4D00'
+gradient_color_2 = '#3e6828'
 # gradient_color_6 = '#eb6f92'
-
+# ['#203414', '#3e6828', '#68a43e', '#9ce458']
 # [color]
 #
 # gradient = 1

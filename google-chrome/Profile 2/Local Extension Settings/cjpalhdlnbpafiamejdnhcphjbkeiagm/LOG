@@ -1,55 +1,9 @@
-2024/06/18-17:03:26.032 2431e Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/06/18-17:03:26.033 2431e Recovering log #2365
-2024/06/18-17:03:26.034 2431e Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002365.log 
-2024/06/18-17:03:32.360 2431f Level-0 table #2369: started
-2024/06/18-17:03:32.377 2431f Level-0 table #2369: 4492082 bytes OK
-2024/06/18-17:03:32.381 2431f Delete type=0 #2365
-2024/06/18-17:03:32.382 2431f Compacting 4@0 + 4@1 files
-2024/06/18-17:03:32.405 2431f Generated table #2370@0: 4 keys, 2462754 bytes
-2024/06/18-17:03:32.430 2431f Generated table #2371@0: 8 keys, 2628093 bytes
-2024/06/18-17:03:32.477 2431f Generated table #2372@0: 13 keys, 2181523 bytes
-2024/06/18-17:03:32.481 2431f Generated table #2373@0: 3 keys, 53563 bytes
-2024/06/18-17:03:32.481 2431f Compacted 4@0 + 4@1 files => 7325933 bytes
-2024/06/18-17:03:32.484 2431f compacted to: files[ 0 4 5 0 0 0 0 ]
-2024/06/18-17:03:32.485 2431f Delete type=2 #2366
-2024/06/18-17:03:32.485 2431f Delete type=2 #2364
-2024/06/18-17:03:32.485 2431f Delete type=2 #2356
-2024/06/18-17:03:32.485 2431f Delete type=2 #2369
-2024/06/18-17:03:32.485 2431f Delete type=2 #2358
-2024/06/18-17:03:32.485 2431f Delete type=2 #2359
-2024/06/18-17:03:32.485 2431f Delete type=2 #2357
-2024/06/18-17:03:32.485 2431f Delete type=2 #2361
-2024/06/18-17:04:41.570 2432c Level-0 table #2375: started
-2024/06/18-17:04:41.624 2432c Level-0 table #2375: 8153615 bytes OK
-2024/06/18-17:04:41.628 2432c Delete type=0 #2368
-2024/06/18-19:36:05.623 2431e Level-0 table #2377: started
-2024/06/18-19:36:05.648 2431e Level-0 table #2377: 5393155 bytes OK
-2024/06/18-19:36:05.652 2431e Delete type=0 #2374
-2024/06/18-19:37:03.072 2431e Level-0 table #2379: started
-2024/06/18-19:37:03.117 2431e Level-0 table #2379: 6725439 bytes OK
-2024/06/18-19:37:03.121 2431e Delete type=0 #2376
-2024/06/18-20:37:03.793 2431f Level-0 table #2381: started
-2024/06/18-20:37:03.842 2431f Level-0 table #2381: 7408370 bytes OK
-2024/06/18-20:37:03.846 2431f Delete type=0 #2378
-2024/06/18-20:37:03.848 2431f Compacting 4@0 + 4@1 files
-2024/06/18-20:37:03.866 2431f Generated table #2382@0: 6 keys, 2479246 bytes
-2024/06/18-20:37:03.884 2431f Generated table #2383@0: 8 keys, 2640044 bytes
-2024/06/18-20:37:03.900 2431f Generated table #2384@0: 6 keys, 2626506 bytes
-2024/06/18-20:37:03.972 2431f Generated table #2385@0: 2 keys, 4285312 bytes
-2024/06/18-20:37:03.983 2431f Generated table #2386@0: 8 keys, 1012662 bytes
-2024/06/18-20:37:03.983 2431f Compacted 4@0 + 4@1 files => 13043770 bytes
-2024/06/18-20:37:03.986 2431f compacted to: files[ 0 5 5 0 0 0 0 ]
-2024/06/18-20:37:03.986 2431f Delete type=2 #2379
-2024/06/18-20:37:03.986 2431f Delete type=2 #2371
-2024/06/18-20:37:03.986 2431f Delete type=2 #2375
-2024/06/18-20:37:03.986 2431f Delete type=2 #2370
-2024/06/18-20:37:03.986 2431f Delete type=2 #2372
-2024/06/18-20:37:03.987 2431f Delete type=2 #2377
-2024/06/18-20:37:03.987 2431f Delete type=2 #2373
-2024/06/18-20:37:03.987 2431f Delete type=2 #2381
-2024/06/18-20:37:03.991 2431f Compacting 1@1 + 1@2 files
-2024/06/18-20:37:04.009 2431f Generated table #2387@1: 6 keys, 2626506 bytes
-2024/06/18-20:37:04.009 2431f Compacted 1@1 + 1@2 files => 2626506 bytes
-2024/06/18-20:37:04.012 2431f compacted to: files[ 0 4 5 0 0 0 0 ]
-2024/06/18-20:37:04.012 2431f Delete type=2 #2384
-2024/06/18-20:37:04.012 2431f Delete type=2 #2183
+2024/06/21-01:03:01.550 1b183 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/06/21-01:03:01.554 1b183 Recovering log #2380
+2024/06/21-01:03:01.555 1b183 Reusing old log /home/vs/.config/google-chrome/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/002380.log 
+2024/06/21-01:03:06.692 1b183 Level-0 table #2390: started
+2024/06/21-01:03:06.711 1b183 Level-0 table #2390: 4675558 bytes OK
+2024/06/21-01:03:06.717 1b183 Delete type=0 #2380
+2024/06/21-01:04:05.718 1b182 Level-0 table #2392: started
+2024/06/21-01:04:05.771 1b182 Level-0 table #2392: 7932930 bytes OK
+2024/06/21-01:04:05.776 1b182 Delete type=0 #2389
