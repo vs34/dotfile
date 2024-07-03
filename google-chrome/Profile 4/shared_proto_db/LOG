@@ -1,3 +1,6 @@
-2024/06/23-17:25:08.827 39a36 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/shared_proto_db/MANIFEST-000001
-2024/06/23-17:25:08.828 39a36 Recovering log #3
-2024/06/23-17:25:08.855 39a36 Reusing old log /home/vs/.config/google-chrome/Profile 4/shared_proto_db/000003.log 
+2024/06/30-18:30:04.633 185fc Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/shared_proto_db/MANIFEST-000001
+2024/06/30-18:30:04.634 185fc Recovering log #3
+2024/06/30-18:30:04.646 185fc Reusing old log /home/vs/.config/google-chrome/Profile 4/shared_proto_db/000003.log 
+2024/06/30-18:30:14.600 185fc Level-0 table #5: started
+2024/06/30-18:30:14.607 185fc Level-0 table #5: 87898 bytes OK
+2024/06/30-18:30:14.611 185fc Delete type=0 #3

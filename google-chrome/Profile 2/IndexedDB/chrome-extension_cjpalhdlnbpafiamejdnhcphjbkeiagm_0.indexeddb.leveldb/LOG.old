@@ -1,9 +1,3 @@
-2024/06/18-17:03:26.210 2431e Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/18-17:03:26.211 2431e Recovering log #21
-2024/06/18-17:03:26.228 2431e Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000021.log 
-2024/06/18-19:36:03.914 2431e Compacting 1@1 + 1@2 files
-2024/06/18-19:36:03.926 2431e Generated table #24@1: 73 keys, 32162 bytes
-2024/06/18-19:36:03.926 2431e Compacted 1@1 + 1@2 files => 32162 bytes
-2024/06/18-19:36:03.929 2431e compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/18-19:36:03.930 2431e Delete type=2 #22
-2024/06/18-19:36:03.930 2431e Delete type=2 #19
+2024/06/21-01:03:01.753 1b191 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/21-01:03:01.754 1b191 Recovering log #21
+2024/06/21-01:03:01.781 1b191 Reusing old log /home/vs/.config/google-chrome/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000021.log 

@@ -1,6 +1,9 @@
-2024/06/23-17:25:08.518 4 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/Local Storage/leveldb/MANIFEST-000001
-2024/06/23-17:25:08.519 4 Recovering log #142
-2024/06/23-17:25:08.525 4 Reusing old log /home/vs/.config/google-chrome/Profile 4/Local Storage/leveldb/000142.log 
-2024/06/23-19:48:41.943 6 Level-0 table #146: started
-2024/06/23-19:48:41.948 6 Level-0 table #146: 11199 bytes OK
-2024/06/23-19:48:41.953 6 Delete type=0 #142
+2024/06/30-18:30:04.082 6 Reusing MANIFEST /home/vs/.config/google-chrome/Profile 4/Local Storage/leveldb/MANIFEST-000001
+2024/06/30-18:30:04.082 6 Recovering log #151
+2024/06/30-18:30:04.084 6 Reusing old log /home/vs/.config/google-chrome/Profile 4/Local Storage/leveldb/000151.log 
+2024/06/30-18:52:00.412 4 Level-0 table #155: started
+2024/06/30-18:52:00.463 4 Level-0 table #155: 88624 bytes OK
+2024/06/30-18:52:00.487 4 Delete type=0 #151
+2024/06/30-21:23:41.253 6 Level-0 table #157: started
+2024/06/30-21:23:41.258 6 Level-0 table #157: 19289 bytes OK
+2024/06/30-21:23:41.263 6 Delete type=0 #154
